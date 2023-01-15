@@ -2,6 +2,11 @@
   "name": "nullstack-feather-icons",
   "version": "1.0.0",
   "license": "MIT",
+  "keywords": [
+    "nullstack",
+    "icons",
+    "feather"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/fccoelho7/nullstack-feather-icons"
