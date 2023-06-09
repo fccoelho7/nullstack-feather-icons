@@ -17,11 +17,11 @@ yarn add nullstack-feather-icons
 2. Import and use it
 
 ```jsx
-import { IconAirplay } from "nullstack-feather-icons";
+import { AirplayIcon } from "nullstack-feather-icons";
 
 export default function MyApp() {
   return (
-    <IconAirplay
+    <AirplayIcon
       size={36} // set custom `width` and `height`
       color="red" // set `stroke` color
       stroke={3} // set `stroke-width`
