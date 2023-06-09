@@ -1,6 +1,6 @@
 {
   "name": "nullstack-feather-icons",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
   "keywords": [
     "nullstack",
@@ -34,7 +34,7 @@
     "@svgr/plugin-svgo": "^8.0.1",
     "feather-icons": "^4.29.0",
     "fs-extra": "^11.1.0",
-    "pascal-case": "^3.1.2",
-    "nullstack": "^0.19.1"
+    "nullstack": "^0.19.1",
+    "pascal-case": "^3.1.2"
   }
 }
